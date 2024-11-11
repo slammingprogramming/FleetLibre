@@ -1,45 +1,53 @@
 # FleetLibre
 
-FleetLibre is an open-source app that provides a full suite of tools for commercial drivers, gig workers, and fleet managers. Combining features from leading apps like Gridwise and commercial trucking tools, FleetLibre empowers drivers with reliable, privacy-focused tools to track and optimize every mile without the burden of subscriptions. Whether you’re an independent driver or manage a large fleet, FleetLibre has everything you need.
+FleetLibre is an open-source, comprehensive app designed for gig drivers, truckers, rideshare drivers, hotshot drivers, delivery drivers, and fleet managers. By consolidating key tools and features from the best gig and commercial driver apps, FleetLibre empowers you to optimize, track, and manage your work—all free and transparent.
 
-## Key Features
+### Features
 
-- **Mileage and Trip Tracking**: Log each trip with automatic mileage tracking, expense logging, and custom tagging options.
-- **Earnings Management**: Track income and expenses with detailed reports that make it easy to visualize your earnings.
-- **Route Optimization**: Real-time route suggestions based on traffic, fuel prices, tolls, and more.
-- **Multi-Gig Integration**: Support for multiple gig platforms to aggregate earnings, mileage, and work time.
-- **Fuel Price Monitoring**: Integrated fuel price tracking to help you plan the most economical routes.
-- **Vehicle Maintenance Alerts**: Set reminders for oil changes, tire checks, and other essential maintenance.
-- **Data Privacy & Control**: All data is stored locally or with user-specified cloud services. No third-party tracking.
-- **Automatic Syncing**: (Optional) Cloud sync your data across devices securely.
-- **Fleet Management Tools**: Manage multiple vehicles, set driver schedules, and track vehicle performance metrics.
-- **Customizable Reports**: Create income, expense, and mileage reports tailored to your needs.
+#### **Core Features**
+- **Earnings Tracking**: Consolidate earnings from multiple gig platforms in one place for a comprehensive view.
+- **Mileage Tracking**: Automatic, IRS-compliant mileage tracking for tax deductions and expense reports.
+- **Expense Tracking**: Log expenses like fuel, maintenance, and tolls, allowing you to monitor costs effectively.
+- **Performance Analytics**: Get detailed metrics on earnings per hour, trips per hour, and earnings per trip.
+- **Weather Updates and Alerts**: Receive real-time weather alerts to plan your routes safely and efficiently.
 
-## Roadmap
+#### **Document & Load Management**
+- **Document Scanning and Management**: Quickly capture and send bills of lading, proof of delivery, and other essential documents.
+- **Load Management**: Review and accept load assignments, track load status, and communicate regarding loads seamlessly.
+- **Load Board Access**: Search, book, and manage loads directly from the app to maximize revenue.
 
-1. **Expand Gig Integration**: Support more gig apps with deeper, real-time data integration.
-2. **Enhanced Route Features**: Integrate with real-time traffic and toll data.
-3. **Fleet Analytics**: Advanced metrics for companies managing multiple vehicles.
-4. **Driver Network**: Optional network features for drivers to share data on fuel prices, road conditions, and more.
-5. **Open API**: Allow third-party developers to create integrations and customizations.
+#### **Vehicle & Maintenance Tools**
+- **Maintenance Reminders**: Set reminders for vehicle maintenance to keep your vehicle running smoothly.
+- **Weigh Station Bypass**: Enables qualified drivers to bypass weigh stations, saving time on the road.
+- **Fuel Price Comparison**: Access real-time fuel prices to find the best fuel options along your route.
 
-## Installation
+#### **Route Optimization & Planning**
+- **Parking Availability**: Check truck parking availability to help plan rest breaks and stops efficiently.
+- **Event & Airport Insights**: Find local events, airport activity, and other high-demand areas to increase efficiency.
 
-You can download FleetLibre for:
-- **iOS**: [App Store link] (coming soon)
-- **Android**: [Google Play link] (coming soon)
-- **Web**: [Website link] (coming soon)
+#### **Driver Networking & Support**
+- **Driver Community**: Connect with other drivers to share tips, insights, and community support.
+- **Two-Way Messaging**: Communicate with dispatchers, brokers, or fleet managers in-app.
 
-Alternatively, you can clone the repository and run it locally for customization.
+#### **Premium & Additional Features**
+- **Advanced Performance Analytics**: Access detailed performance data for personalized improvement.
+- **Automated Reporting**: Create, view, and export detailed reports for income and expenses.
+- **Syncing Across Devices**: Sync data automatically across multiple devices for seamless access.
+- **Customer Support**: Receive dedicated support for troubleshooting and questions.
 
-## Contributing
+### Getting Started
+1. Download and install the app on your mobile device.
+2. Create a free account to start tracking mileage, earnings, and expenses.
+3. Explore the premium features and tools designed to help you drive smarter.
 
-FleetLibre is open to contributions! We welcome help with development, testing, design, documentation, and feature suggestions. See `CONTRIBUTING.md` for guidelines.
+### License
+FleetLibre is licensed under a custom license:
+- **Personal Use**: Free to use.
+- **Personal-Commercial Use**: Gig workers and independent drivers are free to use all features.
+- **Business Use**: Businesses managing multiple drivers or fleet vehicles must acquire a commercial license.
 
-## Support
+Please refer to the LICENSE file for full terms and conditions.
 
-FleetLibre is built by the community, for the community. If you have any issues, feel free to open an issue on GitHub, join our community discussions, or submit a pull request.
+---
 
-## License
-
-FleetLibre is licensed under the GNU GPL-3.0 license. See `LICENSE.md` for more information.
+FleetLibre is a full-featured, open-source solution built by drivers, for drivers. Whether you're an independent gig worker, a seasoned trucker, or a fleet manager, FleetLibre is here to simplify, support, and empower your work on the road. Join us in making this community-driven project the best it can be!
